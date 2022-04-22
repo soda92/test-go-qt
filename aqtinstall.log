@@ -1,0 +1,12 @@
+2022-04-22 15:24:38,219 - aqt.helper - DEBUG - helper 19680 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_630/Updates.xml.sha256
+2022-04-22 15:25:47,614 - aqt.main - INFO - installer 18972 aqtinstall(aqt) v2.1.0 on Python 3.8.10 [CPython MSC v.1928 64 bit (AMD64)]
+2022-04-22 15:25:47,614 - aqt.main - ERROR - installer 18972 Please supply a target architecture.
+2022-04-22 15:26:29,535 - aqt.main - INFO - installer 5580 aqtinstall(aqt) v2.1.0 on Python 3.8.10 [CPython MSC v.1928 64 bit (AMD64)]
+2022-04-22 15:26:29,535 - aqt.main - WARNING - installer 5580 Some of specified modules are unknown.
+2022-04-22 15:26:29,535 - aqt.helper - DEBUG - helper 5580 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_630/Updates.xml.sha256
+2022-04-22 15:26:33,131 - aqt.main - ERROR - installer 5580 The packages ['qtwidgets'] were not found while parsing XML of package information!
+==============================Suggested follow-up:==============================
+* Please use 'aqt list-qt windows desktop --modules 6.3.0 <arch>' to show modules available.
+2022-04-22 15:26:59,019 - aqt.helper - DEBUG - helper 10080 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_630/Updates.xml.sha256
+2022-04-22 15:27:50,763 - aqt.helper - DEBUG - helper 4180 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_624/Updates.xml.sha256
+2022-04-22 15:28:19,496 - aqt.helper - DEBUG - helper 5580 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/Updates.xml.sha256
